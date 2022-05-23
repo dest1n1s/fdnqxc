@@ -2,7 +2,7 @@
 
 ## 如何使用
 
-安装 Chrome 扩展插件 TamperMonkey，选择添加新脚本，并将 ```script.js``` 中的所有内容复制到编辑器中，修改 ```config``` 中的除 ```debug``` 外各个字段为你的个人信息，按 Ctrl + S 保存即可。请检查你的脚本是否被启用。
+安装 Chrome 扩展插件 [TamperMonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)，选择添加新脚本，并将 ```script.js``` 中的所有内容复制到编辑器中，修改 ```config``` 中的除 ```debug``` 外各个字段为你的个人信息，按 Ctrl + S 保存即可。请检查你的脚本是否被启用。
 
 以下为样例 config：
 
