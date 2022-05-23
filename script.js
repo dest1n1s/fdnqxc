@@ -5,7 +5,7 @@
 // @description  南区选餐脚本
 // @author       Dest1n1
 // @include      *https://f.kdocs.cn/w/BBOW4qdu/*
-// @include      *https://f.wps.cn/w/BBOW4qdu/
+// @include      *https://f.wps.cn/w/BBOW4qdu/*
 // @require      https://code.jquery.com/jquery-3.4.1.min.js
 // @run-at       document-end
 // @noframes
