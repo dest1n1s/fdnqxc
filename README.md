@@ -16,9 +16,9 @@ const config = {
     lunch: "套餐A",
     dinner: "套餐A",
     district: "邯郸-南区D区",
-    building: "36号楼",
-    floor: "5楼",
-    room: "5011"
+    building: "7号楼",
+    floor: "1楼",
+    room: "102"
 };
 ```
 
