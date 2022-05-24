@@ -1,5 +1,7 @@
 # 复旦南区选餐脚本
 
+### 公告：今日发现此页面中更改了一些字符（推断是用来防脚本），因本人无意军备竞赛，如各位想继续使用可自行修改脚本。
+
 ## 如何使用
 
 安装 Chrome 扩展插件 [TamperMonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)，选择添加新脚本，并将 ```script.js``` 中的所有内容复制到编辑器中，修改 ```config``` 中的除 ```debug``` 外各个字段为你的个人信息，按 Ctrl + S 保存即可。请检查你的脚本是否被启用。
